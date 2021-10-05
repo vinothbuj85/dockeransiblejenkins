@@ -1,2 +1,2 @@
 [dev]
-10.182.0.10
+10.182.0.10 ansible_user=sksystems2010
